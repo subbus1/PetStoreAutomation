@@ -61,7 +61,7 @@ public class UserEndPoints {
  		 .delete(Routes.delete_url);
  		
  		return response;
- 		
+ 	//Comment to github pipeline
  	}
 
 }
